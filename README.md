@@ -10,7 +10,7 @@ A `project` keyword will now be available in Alfred.
 
 Usage:
 
-```
+```javascript
 project foo // will open a Window Arrangement named foo in iTerm
 project some long name // opens a Window Arrangement named 'some long name' in iTerm
 ```
