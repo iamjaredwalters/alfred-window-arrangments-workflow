@@ -4,12 +4,12 @@ Restore iTerm2 Window Arrangements, filtered by name.
 
 ## Installing / Getting started
 
-Clone or download this repo and open (double click) `iTerm Window Arrangments`.
+Clone or download this repo and open (double click) the `.alfredworkflow` file.
 
 A `project` keyword will now be available in Alfred.  Usage:
 
 ```
-Examples:
+Example Commands:
 `project foo` - will open a Window Arrangement named foo in iTerm
 `project some long name` - opens a Window Arrangement named 'some long name' in iTerm
 ```
