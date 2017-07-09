@@ -9,10 +9,10 @@ Clone or download this repo and open (double click) the `.alfredworkflow` file.
 A `project` keyword will now be available in Alfred.  
 
 Usage:
+
 ```
-Example Commands:
-<b>project foo</b> - will open a Window Arrangement named foo in iTerm
-<b>project some long name</b> - opens a Window Arrangement named 'some long name' in iTerm
+project foo // will open a Window Arrangement named foo in iTerm
+project some long name // opens a Window Arrangement named 'some long name' in iTerm
 ```
 
 ### Prerequisites
